@@ -10,7 +10,7 @@ _All Stock Analysis comparison 2017_
 ![image](https://user-images.githubusercontent.com/96214761/148670813-20e710bb-b67e-48cd-8856-25d62fec7988.png)
 
 _All Stock Analysis comparison 2018_
-![image](https://user-images.githubusercontent.com/96214761/148670823-d192aeae-f14d-456c-a441-070b78614f11.png)
+<img width="1046" alt="AllStocksAnalysis 2018" src="https://user-images.githubusercontent.com/96214761/148671737-ecc0779b-ccae-4667-8fce-1ec8b63393e9.png">
 
 Original 2017 report code ran in 2.19 seconds, after code was refactored code ran in 0.31 seconds, same impact was observed in 2018 report code ran,  original ran in 2.16 seconds and refactoring in 0.32 seconds.
 
